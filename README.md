@@ -1,4 +1,4 @@
-# Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos
+# Projeto Integrador: Desenvolvimento de Sistemas Orientado a Objetos - Turma D
 
 # Lista de Funcionalidades - E-Commerc de Informática
 
